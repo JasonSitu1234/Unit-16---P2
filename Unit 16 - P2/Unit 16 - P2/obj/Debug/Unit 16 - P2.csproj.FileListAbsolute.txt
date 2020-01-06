@@ -1,0 +1,7 @@
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\obj\Debug\Unit 16 - P2.csprojAssemblyReference.cache
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\obj\Debug\Unit 16 - P2.csproj.CoreCompileInputs.cache
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\bin\Debug\Unit 16 - P2.exe.config
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\bin\Debug\Unit 16 - P2.exe
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\bin\Debug\Unit 16 - P2.pdb
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\obj\Debug\Unit 16 - P2.exe
+C:\Users\1348031\Desktop\Unit 16 - P2\Unit 16 - P2\obj\Debug\Unit 16 - P2.pdb
